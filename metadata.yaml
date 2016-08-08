@@ -1,0 +1,40 @@
+_repo: Pomona-s-Travels--13-A-Series-of-Letters-to-the-Mistress-of-Rudder-Grange-from-her-Former-Han__12460
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Frost, A. B. (Arthur Burdett)
+    alias: Frost, Arthur Burdett
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '24799'
+    url: http://www.gutenberg.org/2009/agents/24799
+    wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Frank R. (Frank Richard)
+    - Stockton, Francis Richard
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Americans -- Great Britain -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+- GITenberg
+title: "Pomona's Travels\r\nA Series of Letters to the Mistress of Rudder Grange from\
+  \ her Former Handmaiden"
+url: http://www.gutenberg.org/ebooks/12460
